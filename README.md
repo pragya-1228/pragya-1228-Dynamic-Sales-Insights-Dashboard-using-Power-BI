@@ -36,7 +36,7 @@ A **Power BI interactive dashboard** to track and analyze online sales data with
 
 ## 📸 Screenshots
 
-_Add screenshots of your dashboard here to visually showcase your project._
+
 
 ---
 
