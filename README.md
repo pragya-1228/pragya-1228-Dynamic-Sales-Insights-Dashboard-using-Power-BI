@@ -14,7 +14,7 @@ A **Power BI interactive dashboard** to track and analyze online sales data with
 - Used diverse customized visualizations:
   - Bar chart, pie chart, donut chart
   - Clustered bar chart, scatter chart
-  - Line chart, area chart, map, slicers, etc.
+  - Line chart, area chart, slicers, etc.
 
 ---
 
